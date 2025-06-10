@@ -1,0 +1,16 @@
+catalog_templates:
+  - template_name: v4.15.yaml
+    channels: [stable]
+    replaces: nvidia-network-operator 25.4.0
+  - template_name: v4.16.yaml
+    channels: [stable]
+    replaces: nvidia-network-operator 25.4.0
+  - template_name: v4.17.yaml
+    channels: [stable]
+    replaces: nvidia-network-operator 25.4.0
+  - template_name: v4.18.yaml
+    channels: [stable]
+    replaces: nvidia-network-operator 25.4.0
+  - template_name: v4.19.yaml
+    channels: [stable]
+    replaces: nvidia-network-operator 25.4.0
